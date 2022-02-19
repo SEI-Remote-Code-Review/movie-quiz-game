@@ -1,0 +1,58 @@
+const questions = [
+  "A pair of magic ruby slippers is at the center of this classic 1939 film",
+  "Christoph Waltz exudes evil charm as Hans Landa in this WWII-set film",
+  "This 1997 blockbuster, starring leonardo dicaprio and kate winslet, won 11 oscars",
+  "Ryan Gosling and Rachel McAdams star in this 2004 romance based on the novel by Nicholas Sparks",
+  '"You talkin to me?"',
+  "Harry Potter's teachers include Madam Hooch who teaches flying on one of these",
+  "Rosamund Pike cooly nixes Neil Patrick Harris in this alliterative 2014 adaptation",
+  "The remake of this 1961 musical set in New York City received a 2022 best picture nomination",
+  "An undercover cop and a mole in the police attempt to identify each other in this crime thriller directed by Martin Scorsese",
+  '"Here’s looking at you, kid."',
+  "In a 1998 film Nicole Kidman and this Miss Congeniality star are sisters with a gift for Practical Magic",
+  "Kathy Bates stars in the adaptation of this unhappy Stephen King novel",
+  "In 2020, this became the first foreign film to win best picture",
+  "A San Francisco cartoonist becomes obsessed with tracking down a serial killer in this 2007 film",
+  '"As if!"',
+  "Played by Emily Blunt in a 2018 sequel she returns to help the Banks family with their finances",
+  "Leonardo DiCaprio plays plantation owner Calvin Candie in this Quentin Tarentino film",
+  "This actress has won four oscars, including two for her performances in Fargo and Three Billboards Outside Ebbing, Missouri ",
+  "Jason Segel heads to Hawaii after being dumped by his TV-star girlfriend in this 2008 comedy.",
+  '"Hello, my name is Inigo Montoya, you killed my father, prepare to die."',
+  "This Marvel sorcerer supreme has a cloak of levitation that can take care of itself in a magical pinch",
+  "Anthony Hopkins stars in this psychological horror film based on a best selling book of the same name",
+ "The first black woman to win an oscar, she won Best Performance by an Actress in a Leading Role in 1940 for her role in Gone With the Wind",
+ "A paraplegic marine is sent on a unique mission in this highest grossing movie of the decade directed by James Cameron. ",
+ '"There\'s no crying in baseball!"'
+ ]
+  
+ const answers = [
+  "the wizard of oz",
+  "inglorious basterds",
+  "titanic",
+  "the notebook",
+  "taxi driver",
+  "broom",
+  "gone girl",
+  "west side story",
+  "the departed",
+  "casablanca",
+  "sandra bullock",
+  "misery",
+  "parasite",
+  "zodiac",
+  "clueless",
+  "mary poppins",
+  "django unchained",
+  "frances mcdormand",
+  "forgetting sarah marshall",
+  "the princess bride",
+  "dr. strange",
+  "the silence of the lambs",
+  "hattie mcdaniel",
+  "avatar",
+  "a league of their own"
+]
+ 
+
+export {questions, answers}
